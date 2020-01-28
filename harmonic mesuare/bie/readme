@@ -1,0 +1,10 @@
+The MATLAB files for fast solution of the integral equations.
+see
+% M.M.S. Nasser, FBIEGNK:  A MATLAB toolbox for fast solution of 
+% boundary integral equations with the generalized Neumann kernel, 
+% Version 1.1, 2016. https://github.com/mmsnasser/FBIEGNK.
+% 
+% and in:
+% M.M.S. Nasser, Fast solution of boundary integral equations with the 
+% generalized Neumann kernel, Electronic Transactions on Numerical 
+% Analysis,  44 (2015) 189--229.
